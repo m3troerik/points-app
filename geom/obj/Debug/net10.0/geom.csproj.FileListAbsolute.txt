@@ -1,0 +1,14 @@
+C:\Users\erikm\source\repos\geom\geom\bin\Debug\net10.0\geom.exe
+C:\Users\erikm\source\repos\geom\geom\bin\Debug\net10.0\geom.deps.json
+C:\Users\erikm\source\repos\geom\geom\bin\Debug\net10.0\geom.runtimeconfig.json
+C:\Users\erikm\source\repos\geom\geom\bin\Debug\net10.0\geom.dll
+C:\Users\erikm\source\repos\geom\geom\bin\Debug\net10.0\geom.pdb
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.AssemblyInfoInputs.cache
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.AssemblyInfo.cs
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.csproj.CoreCompileInputs.cache
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.dll
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\refint\geom.dll
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.pdb
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\geom.genruntimeconfig.cache
+C:\Users\erikm\source\repos\geom\geom\obj\Debug\net10.0\ref\geom.dll

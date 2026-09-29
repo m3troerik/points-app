@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geom", "geom\geom.csproj", "{9671EF3F-9574-467C-BDA9-94AA9F4E4731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geom.Tests", "geom.Tests\geom.Tests.csproj", "{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Debug|x64.Build.0 = Debug|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Debug|x86.Build.0 = Debug|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Release|x64.ActiveCfg = Release|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Release|x64.Build.0 = Release|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Release|x86.ActiveCfg = Release|Any CPU
+		{9671EF3F-9574-467C-BDA9-94AA9F4E4731}.Release|x86.Build.0 = Release|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Debug|x64.Build.0 = Debug|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Debug|x86.Build.0 = Debug|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Release|x64.ActiveCfg = Release|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Release|x64.Build.0 = Release|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Release|x86.ActiveCfg = Release|Any CPU
+		{11E4F12A-0A94-4C2F-AD21-7714A6D7AB90}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

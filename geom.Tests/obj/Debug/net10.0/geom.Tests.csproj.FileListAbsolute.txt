@@ -101,3 +101,4 @@ C:\Users\erikm\source\repos\geom\geom.Tests\obj\Debug\net10.0\refint\geom.Tests.
 C:\Users\erikm\source\repos\geom\geom.Tests\obj\Debug\net10.0\geom.Tests.pdb
 C:\Users\erikm\source\repos\geom\geom.Tests\obj\Debug\net10.0\geom.Tests.genruntimeconfig.cache
 C:\Users\erikm\source\repos\geom\geom.Tests\obj\Debug\net10.0\ref\geom.Tests.dll
+C:\Users\erikm\source\repos\geom\geom.Tests\obj\Debug\net10.0\geom.Tests.sourcelink.json

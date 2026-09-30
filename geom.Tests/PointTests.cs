@@ -110,14 +110,6 @@ public class PointTests
     {
         Point p = new Point(15, 10);
         Point centre = new Point(10, 10);
-
-        p.Rotate(centre, Math.PI / 2);
-
-        Assert.Equal(10, p.X(), 3);
-        Assert.Equal(15, p.Y(), 3);
-        
-        Point p = new Point(15, 10);
-        Point centre = new Point(10, 10);
         double oldDistance = centre.Distance(p);
         double oldAngle = centre.VectorTo(p).Theta();
  

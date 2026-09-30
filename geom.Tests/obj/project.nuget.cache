@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jg65sPf3K/w=",
+  "dgSpecHash": "9TRQINtCbsY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erikm\\source\\repos\\geom\\geom.Tests\\geom.Tests.csproj",
+  "projectFilePath": "C:\\Users\\erikm\\RiderProjects\\points-app\\geom.Tests\\geom.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erikm\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\erikm\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

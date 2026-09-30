@@ -56,10 +56,10 @@ namespace geom{
         // Result == VectorTo(other).Rho()
         public double Distance(Point other)
         {
-            double UusX = other.X() - X();
-            double UusY = other.Y() - Y();
-            double pikkus = Math.Sqrt(UusX * UusX + UusY * UusY);
-                return pikkus;
+            //double NewX = other.X() - X();
+            //double NewY = other.Y() - Y();
+            //double length = Math.Sqrt(NewX * NewX + NewY * NewY);
+                //return length;
             return VectorTo(other).Rho();
         }
 
@@ -89,7 +89,7 @@ namespace geom{
         // POST:
         // Rho() == old Rho() - kaugus 0 punktist ei muutu
         // Theta() == old Theta() + angle
-        // (NB! Nurkade võrdlus)
+        // (nb! nurkade võrdlus)
         public Point CentreRotate(double angle){
             double tempX = Rho() * Math.Cos(Theta() + angle);
             double tempY = Rho() * Math.Sin(Theta() + angle);
@@ -103,7 +103,7 @@ namespace geom{
         // PRE: - tingimusi pole
         // POST:
         // p.Distance(this) == p.Distance(old this)
-        // p.VectorTo(this).Theta() == p.VectorTo(old this).Theta() + angle   (NB! Nurkade võrdlus)
+        // p.VectorTo(this).Theta() == p.VectorTo(old this).Theta() + angle   (nb! nurkade võrdlus)
         public void Rotate(Point p2, double angle){
             Translate(-p2.X(), -p2.Y());
             CentreRotate(angle);
